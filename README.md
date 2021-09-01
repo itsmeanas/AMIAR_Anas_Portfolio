@@ -4,10 +4,10 @@ Future Data Scientist
 # Project 1: Les performances des étudiants aux examens
 Comprendre l'influence de divers facteurs tels que les facteurs économiques, personnels et sociaux sur les performances des étudiants.
 Les facteurs seraient :
- -Comment améliorer les performances des élèves dans chaque test ?
- -Quels sont les principaux facteurs qui influencent les résultats des tests ?
- -Efficacité du cours de préparation aux tests ?
- -Autres facteurs
+ * Comment améliorer les performances des élèves dans chaque test ?
+ * Quels sont les principaux facteurs qui influencent les résultats des tests ?
+ * Efficacité du cours de préparation aux tests ?
+ * Autres facteurs
  
  # Project 2: Régression des prix des logements
  Demandez à un acheteur de décrire la maison de ses rêves et il ne commencera probablement pas par la hauteur du plafond du sous-sol ou la proximité d'une voie ferrée est-ouest. 
