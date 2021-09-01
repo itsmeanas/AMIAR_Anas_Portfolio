@@ -9,7 +9,7 @@ Les facteurs seraient :
  * Efficacité du cours de préparation aux tests ?
  * Autres facteurs
  
- # Project 2: Régression des prix des logements
+# Project 2: Régression des prix des logements
  Demandez à un acheteur de décrire la maison de ses rêves et il ne commencera probablement pas par la hauteur du plafond du sous-sol ou la proximité d'une voie ferrée est-ouest. 
  Ce projet prouve que les négociations de prix sont influencées par bien d'autres éléments que le nombre de chambres à coucher ou une clôture à piquets blancs.
 
