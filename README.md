@@ -1,9 +1,9 @@
 # AMIAR_Anas_Portfolio
 
-*Amteur en Data Science, Analyst
-*Contact:
-*anasamiar8@gmail.com
-*https://www.linkedin.com/in/anasamiar/
+* Amteur en Data Science, Analyst
+* Contact:
+* anasamiar8@gmail.com
+* https://www.linkedin.com/in/anasamiar/
 
 
 # [Project 1: Les performances des étudiants aux examens](https://github.com/itsmeanas/Project-1-StudentsPerformance)
