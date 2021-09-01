@@ -1,6 +1,6 @@
 # AMIAR_Anas_Portfolio
 
-* Amteur en Data Science, Analyst
+* Amateur en Data Science, Analyst
 * Contact:
 * anasamiar8@gmail.com
 * https://www.linkedin.com/in/anasamiar/
