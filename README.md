@@ -15,7 +15,7 @@ Les facteurs seraient :
  * Autres facteurs
 
 
- ![](https://github.com/itsmeanas/AMIAR_Anas_Portfolio/blob/main/pictures/2.png)
+ ![](/pictures/2.png)
  ![](https://github.com/itsmeanas/AMIAR_Anas_Portfolio/blob/main/pictures/1.png)
  
 # [Project 2: Régression des prix des logements](https://github.com/itsmeanas/Project-2-House-Prices-Regression)
