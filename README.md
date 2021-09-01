@@ -16,14 +16,14 @@ Les facteurs seraient :
 
 
  ![](/pictures/2.png)
- ![](https://github.com/itsmeanas/AMIAR_Anas_Portfolio/blob/main/pictures/1.png)
+ ![](/pictures/1.png)
  
 # [Project 2: Régression des prix des logements](https://github.com/itsmeanas/Project-2-House-Prices-Regression)
  Demandez à un acheteur de décrire la maison de ses rêves et il ne commencera probablement pas par la hauteur du plafond du sous-sol ou la proximité d'une voie ferrée est-ouest. 
  Ce projet prouve que les négociations de prix sont influencées par bien d'autres éléments que le nombre de chambres à coucher ou une clôture à piquets blancs.
  
- ![](https://github.com/itsmeanas/AMIAR_Anas_Portfolio/blob/main/pictures/house1.png)
- ![](https://github.com/itsmeanas/AMIAR_Anas_Portfolio/blob/main/pictures/house2.png)
+ ![](/house1.png)
+ ![](/house2.png)
 
 # [Project 3: Titanic Classification](https://github.com/itsmeanas/Project-3-Titanic-Classification)
  Le 15 avril 1912, lors de son voyage inaugural, le Titanic a coulé après être entré en collision avec un iceberg, tuant 1502 des 2224 passagers et membres d'équipage. Soit un taux de survie de 32 %.
