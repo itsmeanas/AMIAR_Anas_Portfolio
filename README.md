@@ -8,6 +8,8 @@ Les facteurs seraient :
  * Quels sont les principaux facteurs qui influencent les résultats des tests ?
  * Efficacité du cours de préparation aux tests ?
  * Autres facteurs
+ * [](https://github.com/itsmeanas/AMIAR_Anas_Portfolio/blob/main/pictures/2.png)
+ * [](https://github.com/itsmeanas/AMIAR_Anas_Portfolio/blob/main/pictures/1.png)
  
 # [Project 2: Régression des prix des logements](https://github.com/itsmeanas/Project-2-House-Prices-Regression)
  Demandez à un acheteur de décrire la maison de ses rêves et il ne commencera probablement pas par la hauteur du plafond du sous-sol ou la proximité d'une voie ferrée est-ouest. 
