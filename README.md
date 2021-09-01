@@ -1,5 +1,5 @@
 # AMIAR_Anas_Portfolio
-Future Data Scientist 
+Alternant en Data Science/Analyst, AI
 
 # [Project 1: Les performances des étudiants aux examens](https://github.com/itsmeanas/Project-1-StudentsPerformance)
 Comprendre l'influence de divers facteurs tels que les facteurs économiques, personnels et sociaux sur les performances des étudiants.
